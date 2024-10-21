@@ -30,7 +30,7 @@ npm run serve
 Access the app at `http://localhost:8080`.
 
 ## Demo
-Check out the demo video [here](insert_your_video_link).
+Check out the demo video [here](https://foodorderingabstar1.netlify.app/).
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
