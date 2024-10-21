@@ -1,5 +1,6 @@
 # Restaurant Ordering System
-![MediGuide Interface](./Screenshot%2024-10-19%20220909.png)
+![MediGuide Interface](./Screenshot%202024-10-19%20220909.png)
+
 
 ## Overview
 This project is a Restaurant Ordering System developed using Vue.js for the frontend and JavaScript for the backend. It allows users to browse the menu, place orders, and manage their accounts efficiently.
